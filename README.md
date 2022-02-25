@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am currently working on mainly latex based projects and my own small website.  
-Feel free to get in touch with me. I am interesed in the following topics:
+Feel free to get in touch with me (English / German). I am interesed in the following topics:
 
 - Everything to do with Math
 - Programming, but I am not the best
