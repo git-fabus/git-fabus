@@ -1,11 +1,6 @@
 ### Hi there 👋
 I am currently working on mainly latex based projects and my own small website.  
-Feel free to get in touch with me (English / German). I am interesed in the following topics:
-
-- Everything to do with Math
-- Programming, but I am not the best
-- Helping other espacally in math,but only if I can
-- Volleyball 
+Feel free to get in touch with me (English / German).
 <!--
 **git-fabus/git-fabus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
